@@ -60,7 +60,7 @@ resource "azurerm_virtual_machine" "main" {
     managed_disk_type = "Standard_LRS"
   }
   os_profile {
-    computer_name  = "hostname"
+    computer_name  = "vm-puc"
     admin_username = "puc"
     admin_password = "P@$$w0rd1234!"
   }
