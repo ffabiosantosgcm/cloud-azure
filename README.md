@@ -1,6 +1,6 @@
 
 
-# Cloud for AZURE
+# Cloud AZURE
 
 Script básico de criaçao de VM.
 
